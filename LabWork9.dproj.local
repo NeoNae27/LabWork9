@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.11.04 17:36:41.413,=E:\User\Nikita\Local\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.11.04 17:37:09.174,E:\User\Nikita\Local\Документы\GitHub\Технологии программирования\LabWork9\Main.pas=E:\User\Nikita\Local\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.11.04 17:37:09.174,E:\User\Nikita\Local\Документы\GitHub\Технологии программирования\LabWork9\Main.dfm=E:\User\Nikita\Local\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.11.04 17:37:20.280,E:\User\Nikita\Local\Документы\GitHub\Технологии программирования\LabWork9\LabWork9.dproj=E:\User\Nikita\Local\Документы\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

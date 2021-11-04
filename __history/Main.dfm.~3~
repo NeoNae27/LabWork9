@@ -1,0 +1,33 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 467
+  ClientWidth = 683
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Image1: TImage
+    Left = 127
+    Top = 0
+    Width = 546
+    Height = 441
+  end
+  object StringGrid1: TStringGrid
+    Left = 0
+    Top = 0
+    Width = 121
+    Height = 465
+    ColCount = 4
+    DefaultColWidth = 24
+    RowCount = 20
+    Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goEditing, goFixedRowDefAlign]
+    TabOrder = 0
+  end
+end
